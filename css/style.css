@@ -151,7 +151,12 @@ a:hover {
   background: #f23a2e;
 }
 iframe {
-  overflow: hidden;
+   position: absolute;
+   width: 100vw !important;
+   height: 100vh !important;
+   padding: 0 !important;
+   margin: 0 !important;
+   overflow:hidden;
 }
 .site-section-heading.text-center:before {
   content: "";
