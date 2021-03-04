@@ -150,6 +150,9 @@ a:hover {
   height: 2px;
   background: #f23a2e;
 }
+iframe {
+  overflow: hidden;
+}
 .site-section-heading.text-center:before {
   content: "";
   left: 50%;
