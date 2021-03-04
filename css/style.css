@@ -1062,6 +1062,10 @@ a:hover {
   .block-12 .text .text-inner {
     padding: 20px;
   }
+  .clinic-map {
+    height: 30px;
+    width: 30px;
+  }
 }
 @media (min-width: 768px) {
   .block-12 .text .text-inner {
