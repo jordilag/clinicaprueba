@@ -1,8 +1,12 @@
 /* Base */
 html {
   scroll-behavior: smooth;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
 }
 body {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
   line-height: 1.7;
   color: #4d4d4d;
   font-weight: 300;
